@@ -1,4 +1,4 @@
-# Sentiment_analysis_model
+# Sentiment Analysis Model
 Created a Sentiment analysis model using Machine Learning and NLP techniques to gain Real Time Analysis on customer reviews with Data Cleaning and 
 Processing on a large 32M+ Dataset.
 
